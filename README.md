@@ -65,4 +65,4 @@ Observer Pattern زیرا :
 
 گام دوم : ترسیم  class diagram
 =======
-لینک تصویر مربوطه :Desktop/OOD-HW-02/classdiagram.drawio.png
+لینک تصویر مربوطه : https://github.com/fatemehsanvari-rgb/OOD-HW-02/blob/cbf194c059faef63be9164cdad32ea306170182e/Desktop/OOD-HW-02/classdiagram.drawio.png
