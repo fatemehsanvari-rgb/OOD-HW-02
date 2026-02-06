@@ -1,5 +1,5 @@
-import ticket.Ticket;
-import ticket.TicketService;
+import edu.ticket.Ticket;
+import edu.ticket.TicketService;
 
 public class Main {
 
